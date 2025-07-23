@@ -27,3 +27,5 @@ try:
 
 except requests.exceptions.RequestException as e:
     print("❌ Error al hacer la solicitud:", e)
+
+    ##prueba
